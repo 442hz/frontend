@@ -165,6 +165,7 @@
     "users": "用户",
     "globalRules": "这是全局允许与禁止规则。它们作用于所有用户。您可以给每个用户定义单独的特殊规则来覆盖全局规则。",
     "allowSignup": "允许用户注册",
+    "createUserDir": "添加用户时自动创建用户家目录",
     "insertRegex": "插入正则表达式",
     "insertPath": "Insert the path",
     "userUpdated": "用户已更新！",
